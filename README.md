@@ -3,7 +3,7 @@
 
 - 🔭 Projetos: [Refront](https://refront.com.br/) e [Guzzatti](https://guzzatti.com.br/) 
 
-- 🌱 Atualmente aprendendo **Backend, Frontend and Database**
+- 🌱 Atualmente aprendendo **Front End, Arquitetura de Software e Estatística aplicada em python**
 
 - 📫 email: **gabrielguzzatti@gmail.com**
 
