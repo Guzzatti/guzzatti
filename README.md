@@ -2,8 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=087D6F&size=35&left=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Gabriel+Guzzatti;Prazer+em+conhecer+você!+:%29)](https://git.io/typing-svg)
 
-![react](https://img.shields.io/badge/react-%2353C1DE?style=for-the-badge&logo=react&logoColor=white&labelColor=black)
-![Static Badge](https://img.shields.io/badge/next-%23D8D8D8?style=for-the-badge&logo=next.js&logoColor=white&labelColor=black)
+Minha jornada na programação começou em meados de 2021 e, desde então, procuro melhorar minhas habilidades e meus conhecimentos na área! Sou estudande de Engenharia de Software na Unisatc, em Criciúma(SC). Aqui eu publico alguns projetos da faculdade e cursos na área de programação. 
+
+![react](https://img.shields.io/badge/react.js-%2353C1DE?style=for-the-badge&logo=react&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/next.js-%23D8D8D8?style=for-the-badge&logo=next.js&logoColor=white&labelColor=black)
 ![javascript](https://img.shields.io/badge/javascript-%23FFE052?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&labelColor=0D1117)
 ![Static Badge](https://img.shields.io/badge/css-%232196F3?style=for-the-badge&logo=css3&logoColor=white&labelColor=black)
@@ -27,22 +29,15 @@
 <br>
 
 
+ ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=guzzatti&title_color=087D6F&icon_color=087D6F&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
-🔭 <b>Projetos</b> 
+
+## 🔭 Projetos
 - [Refront](https://refront.com.br/)
 - [Guzzatti](https://guzzatti.com.br/) 
 <br>
 
-
- ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=guzzatti&title_color=087D6F&icon_color=087D6F&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-
-
 ## 🏆| Troféus GitHub
 
 ![Fraga GitHub stats](https://github-profile-trophy.vercel.app/?username=guzzatti&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-
-## 📍 Contagem de visitantes do perfil
-  <img src="https://profile-counter.glitch.me/guzzatti/count.svg" />  
-
 
