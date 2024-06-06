@@ -30,24 +30,23 @@
 
   </div>
 
-  <!-- github stats start -->
-  ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=guzzatti&title_color=087D6F&icon_color=087D6F&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-  <!-- github stats end -->
-
-  <div align="center">
-    <!-- github streak start -->
-    <img loading="lazy" width=396 src="https://github-readme-streak-stats-mnex.vercel.app?user=guzzatti&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=087D6F&border=0D1117&ring=087D6F&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=087D6F&sideLabels=087D6F&excludeDaysLabel=087D6F&dates=FFFFFF" alt="current streak stats" />
-    <!-- github streak end -->
-    <!-- github stats start -->
-    <img loading="lazy" width=396 src="https://github-readme-stats-mnex.vercel.app/api?username=guzzatti&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&theme=react&title_color=087D6F&currStreakLabel=087D6F&sideLabels=087D6F&icon_color=087D6F&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true&include_all_commits=true" alt="github stats" />
-    <!-- github stats end -->
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <!-- github stats -->
+  <div style="flex: 1; margin: 10px;">
+    <img loading="lazy" width=396 src="https://github-readme-stats.vercel.app/api?username=guzzatti&title_color=087D6F&icon_color=087D6F&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </div>
+  
+  <!-- github streak -->
+  <div style="flex: 1; margin: 10px;">
+    <img loading="lazy" width=396 src="https://github-readme-streak-stats-mnex.vercel.app?user=guzzatti&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=087D6F&border=0D1117&ring=087D6F&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=087D6F&sideLabels=087D6F&excludeDaysLabel=087D6F&dates=FFFFFF" alt="Current Streak Stats" />
   </div>
 
-  <div align="center">
-    <!-- github most used languages start -->
-    <img loading="lazy" width=325 src="https://github-readme-stats-mnex.vercel.app/api/top-langs/?username=guzzatti&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=087D6F&text_color=FFFFFF&icon_color=087D6F&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="most used language stats" />
-    <!-- github most used languages end -->
+  <!-- github most used languages -->
+  <div style="flex: 1; margin: 10px;">
+    <img loading="lazy" width=325 src="https://github-readme-stats-mnex.vercel.app/api/top-langs/?username=guzzatti&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=087D6F&text_color=FFFFFF&icon_color=087D6F&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Most Used Language Stats" />
   </div>
+</div>
+
 
   <!-- github readme activity graph start -->
   <div align="center">
