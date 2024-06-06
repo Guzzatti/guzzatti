@@ -4,15 +4,17 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=087D6F&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Gabriel+Guzzatti;Prazer+em+conhecer+você!+:%29)](https://git.io/typing-svg)
 
   <p>Minha jornada na programação começou em meados de 2021 e, desde então, procuro melhorar minhas habilidades e meus conhecimentos na área!</p>
-  
-  ![react](https://img.shields.io/badge/react.js-%2353C1DE?style=for-the-badge&logo=react&logoColor=white&labelColor=black)
-  ![Static Badge](https://img.shields.io/badge/next.js-%23D8D8D8?style=for-the-badge&logo=next.js&logoColor=white&labelColor=black)
-  ![javascript](https://img.shields.io/badge/javascript-%23FFE052?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logoColor=white&logo=typescript&labelColor=0D1117)
-  ![Static Badge](https://img.shields.io/badge/css-%232196F3?style=for-the-badge&logo=css3&logoColor=white&labelColor=black)
-  ![html](https://img.shields.io/badge/html-%23E44D26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black)
-  ![php](https://img.shields.io/badge/php-%23777BB3?style=for-the-badge&logo=php&logoColor=white&labelColor=black)
-  ![python](https://img.shields.io/badge/python-%23FFE052?style=for-the-badge&logo=python&logoColor=white&labelColor=black)
+
+[![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)](https://www.typescriptlang.org/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=000000)](https://www.php.net/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)](https://www.python.org/)
+[![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-BBBBBB?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000)](https://nextjs.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=000000)](https://www.sqlite.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)](https://www.mysql.com/)
 
   <p>Sou estudante de Engenharia de Software na Unisatc, em Criciúma(SC). Aqui eu publico alguns projetos da faculdade e cursos na área de programação.</p>
 
@@ -53,9 +55,14 @@
   </div>
   <!-- github readme activity graph end -->
 
+<div align="center">
+  
   <!-- github trophy start -->
   ![Fraga GitHub stats](https://github-profile-trophy.vercel.app/?username=guzzatti&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4&rank=-?&margin-w=15)
   <!-- github trophy end -->
+  
+</div>
+
 
   <!-- wave GIF start -->
   <div align="center">
