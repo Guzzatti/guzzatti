@@ -3,7 +3,7 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=087D6F&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Gabriel+Guzzatti;Prazer+em+conhecer+você!+:%29)](https://git.io/typing-svg)
 
-  <p>Minha jornada na programação começou em meados de 2021 e, desde então, procuro melhorar minhas habilidades e meus conhecimentos na área!</p>
+  <p>Minha jornada na programação começou em meados de 2021 e, desde então, procuro melhorar minhas habilidades e meus conhecimentos na área! Essas são algumas das tecnologias que eu utilizo para realizar meus projetos</p>
 
 [![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -16,7 +16,7 @@
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=000000)](https://www.sqlite.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)](https://www.mysql.com/)
 
-  <p>Sou estudante de Engenharia de Software na Unisatc, em Criciúma(SC). Aqui eu publico alguns projetos da faculdade e cursos na área de programação.</p>
+  <p>Sou estudante de Engenharia de Software na Unisatc, em Criciúma(SC). Aqui eu publico alguns trabalhos da faculdade e cursos na área de programação. Para mais informações, minhas redes sociais estão abaixo!</p>
 
   <div>
     
