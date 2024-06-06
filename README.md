@@ -26,6 +26,7 @@
     </p>
   </div>
 
+  
   <!-- github stats start -->
   ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=guzzatti&title_color=087D6F&icon_color=087D6F&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
   <!-- github stats end -->
