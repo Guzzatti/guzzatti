@@ -1,7 +1,7 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=087D6F&height=120&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=09C3D7&height=120&section=header"/>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=087D6F&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Gabriel+Guzzatti;Prazer+em+conhecer+você!+:%29)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=09C3D7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Gabriel+Guzzatti;Prazer+em+conhecer+você!+:%29)](https://git.io/typing-svg)
 
   <p>Minha jornada na programação começou em meados de 2021 e, desde então, procuro melhorar minhas habilidades e meus conhecimentos na área! Essas são algumas das tecnologias que eu utilizo para realizar meus projetos</p>
 
@@ -33,24 +33,24 @@
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
   <!-- github stats -->
   <div style="flex: 1; margin: 10px;">
-    <img loading="lazy" width=396 src="https://github-readme-stats.vercel.app/api?username=guzzatti&title_color=087D6F&icon_color=087D6F&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img loading="lazy" width=396 src="https://github-readme-stats.vercel.app/api?username=guzzatti&title_color=09C3D7&icon_color=09C3D7&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
   </div>
   
   <!-- github streak -->
   <div style="flex: 1; margin: 10px;">
-    <img loading="lazy" width=396 src="https://github-readme-streak-stats-mnex.vercel.app?user=guzzatti&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=087D6F&border=0D1117&ring=087D6F&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=087D6F&sideLabels=087D6F&excludeDaysLabel=087D6F&dates=FFFFFF" alt="Current Streak Stats" />
+    <img loading="lazy" width=396 src="https://github-readme-streak-stats-mnex.vercel.app?user=guzzatti&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=09C3D7&border=0D1117&ring=09C3D7&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=09C3D7&sideLabels=09C3D7&excludeDaysLabel=09C3D7&dates=FFFFFF" alt="Current Streak Stats" />
   </div>
 
   <!-- github most used languages -->
   <div style="flex: 1; margin: 10px;">
-    <img loading="lazy" width=325 src="https://github-readme-stats-mnex.vercel.app/api/top-langs/?username=guzzatti&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=087D6F&text_color=FFFFFF&icon_color=087D6F&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Most Used Language Stats" />
+    <img loading="lazy" width=325 src="https://github-readme-stats-mnex.vercel.app/api/top-langs/?username=guzzatti&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=09C3D7&text_color=FFFFFF&icon_color=09C3D7&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Most Used Language Stats" />
   </div>
 </div>
 
 
   <!-- github readme activity graph start -->
   <div align="center">
-    <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph-mnex.vercel.app/graph?username=guzzatti&bg_color=0d1117&color=087D6F&line=087D6F&point=FFFFFF&area=false&hide_border=true&hide_title=true">
+    <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph-mnex.vercel.app/graph?username=guzzatti&bg_color=0d1117&color=09C3D7&line=09C3D7&point=FFFFFF&area=false&hide_border=true&hide_title=true">
   </div>
   <!-- github readme activity graph end -->
 
@@ -65,7 +65,7 @@
 
   <!-- wave GIF start -->
   <div align="center">
-    <img loading="lazy" width="100%" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=087D6F&height=160&section=footer">
+    <img loading="lazy" width="100%" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=09C3D7&height=160&section=footer">
   </div>
   <!-- wave GIF end -->
 </div>
