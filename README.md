@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=09C3D7&height=120&section=header"/>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=09C3D7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Gabriel+Guzzatti;Prazer+em+conhecer+você!+:%29)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=09C3D7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Gabriel;Prazer+em+conhecer+você!+:%29)](https://git.io/typing-svg)
 
   <p>Minha jornada na programação começou em meados de 2021 e, desde então, procuro melhorar minhas habilidades e meus conhecimentos na área! Essas são algumas das tecnologias que eu utilizo para realizar meus projetos</p>
 
