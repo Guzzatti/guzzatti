@@ -35,23 +35,22 @@
     <img loading="lazy" width=396 src="https://github-readme-stats.vercel.app/api?username=guzzatti&title_color=FD975D&icon_color=FD975D&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
   </div>
   
-  <!-- github streak -->
-  <div style="flex: 1; margin: 10px;">
-    <img loading="lazy" width=396 src="https://github-readme-streak-stats-mnex.vercel.app?user=guzzatti&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=FD975D&border=0D1117&ring=FD975D&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FD975D&sideLabels=FD975D&excludeDaysLabel=FD975D&dates=FFFFFF" alt="Current Streak Stats" />
-  </div>
+<!-- GitHub Streak -->
+<div style="flex: 1; margin: 10px;">
+  <img loading="lazy" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=guzzatti&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=FD975D&border=0D1117&ring=FD975D&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FD975D&sideLabels=FD975D&excludeDaysLabel=FD975D&dates=FFFFFF" alt="Current Streak Stats" />
+</div>
 
   <!-- github most used languages -->
   <div style="flex: 1; margin: 10px;">
-    <img loading="lazy" width=325 src="https://github-readme-stats-mnex.vercel.app/api/top-langs/?username=guzzatti&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=FD975D&text_color=FFFFFF&icon_color=FD975D&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Most Used Language Stats" />
+    <img loading="lazy" width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=guzzatti&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=FD975D&text_color=FFFFFF&icon_color=FD975D&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Most Used Language Stats" />
   </div>
 </div>
 
 
-  <!-- github readme activity graph start -->
-  <div align="center">
-    <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph-mnex.vercel.app/graph?username=guzzatti&bg_color=0d1117&color=FD975D&line=FD975D&point=FFFFFF&area=false&hide_border=true&hide_title=true">
-  </div>
-  <!-- github readme activity graph end -->
+  <!-- GitHub Readme Activity Graph -->
+<div align="center">
+  <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph.vercel.app/graph?username=guzzatti&bg_color=0d1117&color=FD975D&line=FD975D&point=FFFFFF&area=false&hide_border=true&hide_title=true">
+</div>
 
 <div align="center">
   
