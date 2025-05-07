@@ -55,8 +55,10 @@
 <div align="center">
   
   <!-- github trophy start -->
-  ![Fraga GitHub stats](https://github-profile-trophy.vercel.app/?username=guzzatti&theme=dark_lover&no-frame=true&no-bg=true&margin-w=4&rank=-?&margin-w=15)
+  ![Fraga GitHub stats](https://github-profile-trophy.vercel.app/?username=guzzatti&theme=dark_lover&no-frame=true&no-bg=true&margin-w=15&exclude=reviews)
   <!-- github trophy end -->
+
+
   
 </div>
 
