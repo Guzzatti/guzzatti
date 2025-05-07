@@ -37,7 +37,8 @@
   
 <!-- GitHub Streak -->
 <div style="flex: 1; margin: 10px;">
-  <img loading="lazy" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=guzzatti&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=FD975D&border=0D1117&ring=FD975D&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FD975D&sideLabels=FD975D&excludeDaysLabel=FD975D&dates=FFFFFF" alt="Current Streak Stats" />
+  <img width="396" src="https://github-readme-streak-stats.herokuapp.com/?user=guzzatti&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=FD975D&border=0D1117&ring=FD975D&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FD975D&sideLabels=FD975D&excludeDaysLabel=FD975D&dates=FFFFFF" alt="Current Streak Stats" />
+
 </div>
 
   <!-- github most used languages -->
